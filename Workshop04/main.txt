@@ -14,3 +14,5 @@ set CLOCK to 50 Hz
 Polling fixed // Aaron
 
 Feature added by Ben // Ben's work
+
+I added some work, in the txt doc
